@@ -16,3 +16,5 @@ This is a sample readme file for my GitHub repo. I'm learning markdown.
 
 ## Screenshot
 ![example image](images/Screenshot2021-08.png)
+
+:grinning: What do you think about of these updates?
